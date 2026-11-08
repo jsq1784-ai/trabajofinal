@@ -21,7 +21,7 @@
       "package": "com.jsq111.omniman"
     },
     "web": {
-      "output": "server",
+      "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
